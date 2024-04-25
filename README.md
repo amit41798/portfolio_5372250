@@ -10,5 +10,6 @@ Zuerst habe ich den Link zum Repository verwendet, den Sie uns gegeben haben. Do
 ## Klonen Sie dieses Repository auf Ihren lokalen Computer: 
 Kopieren Sie sich den link des Repositories auf Github. Gehe Sie zu Visual Studio Code, öffnen Sie einen Terminal und mit dem `$ cd '/c/Users/YOUR USERNAME HERE/ 'My Project'` Command, gehen Sie zu dem Ordner, wo Sie das Repository clonen wollen. Nachdem Sie in dem Ordner navigiert sind, geben Sie die Git clone command und die URL die Sie zuvor von Github kopiert haben, in den Terminal ein.
 ##
-<tab><tab>git clone https://github.com/amit41798/portfolio_5372250.git
-
+```
+git clone https://github.com/amit41798/portfolio_5372250.git
+```
